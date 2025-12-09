@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(230, 123, 123);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#numbertwo {
+    color: blue;
+    font-size: 36px;
+}
+
+.numbertree {
+    font-size: 36px;
+}
+
+#numberfour {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
